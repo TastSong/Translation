@@ -1,4 +1,4 @@
-# -*- coding: UTF-8 -*-
+﻿# -*- coding: UTF-8 -*-
 
 from aip import AipOcr
 import os
@@ -11,11 +11,11 @@ import json
 # 定义常量
 APP_ID = '10379743'
 #OCRD的id和key
-API_KEY = 'QGGvDG2yYiVFvujo6rlX4SvD'
-SECRET_KEY = 'PcEAUvFO0z0TyiCdhwrbG97iVBdyb3Pk'
+API_KEY = ''
+SECRET_KEY = ''
 #翻译的ID和KEY
-appid = '20180714000185578'
-secretKey = 'kl5YaTfsWBIdkdvTz9EZ'
+appid = ''
+secretKey = ''
 
 # 定义参数变量（主要识别图片中的英文和中文）
 options = {
