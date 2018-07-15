@@ -1,0 +1,24 @@
+^^^^^^^^^^^^^^     0.jpg      识别翻译结果如下：^^^^^^^^^^^^^^
+钉子钉了,可以拔出来,
+The nail is nailed and can be pulled out.
+打穿的洞,却永远留在那儿。
+The hole that is worn, remains there forever.
+^^^^^^^^^^^^^^     1.jpg      识别翻译结果如下：^^^^^^^^^^^^^^
+在蓝雨
+In Lan Yu
+你这个样子
+You look like this
+是要被喂秋葵的
+To be fed with okra
+^^^^^^^^^^^^^^     0.jpg      识别翻译结果如下：^^^^^^^^^^^^^^
+钉子钉了,可以拔出来,
+The nail is nailed and can be pulled out.
+打穿的洞,却永远留在那儿。
+The hole that is worn, remains there forever.
+^^^^^^^^^^^^^^     1.jpg      识别翻译结果如下：^^^^^^^^^^^^^^
+在蓝雨
+In Lan Yu
+你这个样子
+You look like this
+是要被喂秋葵的
+To be fed with okra
